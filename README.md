@@ -26,3 +26,7 @@ docker-machine create --driver amazonec2 \
 --amazonec2-vpc-id vpc-0e05fef56372e3e1b \
 --amazonec2-instance-type t2.micro \
 testdriven-prod
+
+# Microservices with Docker, Flask, and React
+
+[![Build Status](https://travis-ci.org/moz5691/testdriven-app.svg?branch=master)](https://travis-ci.org/moz5691/testdriven-app)
